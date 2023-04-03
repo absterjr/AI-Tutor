@@ -38,3 +38,6 @@ Contributions to AI Tutor are welcome! If you find a bug or have an idea for a n
 
 
 #### Note: replace "YOUR_API_KEY" with your actual OpenAI API key. Also, make sure to install the necessary packages (flask and openai)
+
+
+The number of topics can be increased by simply adding the topic names into the list defined at the beginning.
