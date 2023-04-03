@@ -22,7 +22,7 @@ Set up the OpenAI API key: https://platform.openai.com/account/api-keys
 Run the app: flask --app app run
 
 After Clicking on "Start Conversation" on the webpage, move on back to the terminal to continue the conversation, as you can see from the image below.
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/absterjr/AI-Tutor/blob/main/AI%20Tutor.png?raw=true)
 
 ### Usage
 
