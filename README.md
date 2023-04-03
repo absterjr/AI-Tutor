@@ -7,7 +7,7 @@ AI Tutor is a web-based chatbot that utilizes OpenAI's GPT-3 language model to p
 - Python 3.6 or higher
 - Flask
 - OpenAI API key
-- 
+
 ### Installation
 - Clone the repository: git clone https://github.com/absterjr/AI-Tutor.git
 - Install the required packages: pip install -r requirements.txt
