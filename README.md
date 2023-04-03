@@ -17,7 +17,7 @@ Clone the repository: git clone https://github.com/absterjr/AI-Tutor.git
 
 Install the required packages: pip install -r requirements.txt
 
-Set up the OpenAI API key: https://beta.openai.com/docs/developer-quickstart/your-api-keys
+Set up the OpenAI API key: https://platform.openai.com/account/api-keys
 
 Run the app: flask --app app run
 
