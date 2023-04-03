@@ -21,6 +21,9 @@ Set up the OpenAI API key: https://platform.openai.com/account/api-keys
 
 Run the app: flask --app app run
 
+After Clicking on "Start Conversation" on the webpage, move on back to the terminal to continue the conversation, as you can see from the image below.
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 ### Usage
 
 Once the app is running, navigate to http://127.0.0.1:5000 in your web browser to access the chatbot. You can start a conversation by typing your response in the input box at the bottom of the page and pressing Enter. The chatbot will respond with a question related to a particular subtopic and a summary of the ideas related to that subtopic. Once the chatbot determines that you have demonstrated sufficient understanding of the current subtopic, it will move on to the next subtopic.
