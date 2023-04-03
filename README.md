@@ -27,7 +27,10 @@ Type Yes to continue on to the next topic.
 
 ### Usage
 
-Once the app is running, navigate to http://127.0.0.1:5000 in your web browser to access the chatbot. You can start a conversation by typing your response in the input box at the bottom of the page and pressing Enter. The chatbot will respond with a question related to a particular subtopic and a summary of the ideas related to that subtopic. Once the chatbot determines that you have demonstrated sufficient understanding of the current subtopic, it will move on to the next subtopic.
+Once the app is running, navigate to http://127.0.0.1:5000 in your web browser to access the chatbot. You can start a conversation by typing your response in the input box at the bottom of the page and pressing Enter. The chatbot will respond with a question related to a particular subtopic and a summary of the ideas related to that subtopic. Once the chatbot determines that you have demonstrated sufficient understanding of the current subtopic, it will move on to the next subtopic. 
+You can see an example below.
+![alt text](https://github.com/absterjr/AI-Tutor/blob/main/Doubt.png?raw=true)
+
 
 ### Contributing
 
