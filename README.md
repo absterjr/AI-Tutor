@@ -1,5 +1,5 @@
 # AI-Tutor
-An Application that uses AI to teach ML Topics
+An Application that uses AI to teach ML Topics and much more.
 
 AI Tutor is a web-based chatbot that utilizes OpenAI's GPT-3 language model to provide automated tutoring to students on various topics related to machine learning. The chatbot can generate questions related to different subtopics and summarize the ideas related to that subtopic. The chatbot can also track student engagement and move on to the next subtopic once the student has demonstrated sufficient understanding.
 
