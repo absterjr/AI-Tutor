@@ -16,6 +16,15 @@ AI Tutor is a web-based chatbot that utilizes OpenAI's GPT-3 language model to p
 (After Clicking on "Start Conversation" on the webpage, move on back to the terminal to continue the conversation, as you can see from the image below.)
 ![alt text](https://github.com/absterjr/AI-Tutor/blob/main/AI%20Tutor.png?raw=true)
 Type Yes to continue on to the next topic.
+#### Or you can use this command or your command line:
+  - ##### (Linux, make sure you have python and git installed):
+```bash
+   git clone https://github.com/absterjr/AI-Tutor.git && pip install -r requirements.txt && python3 env.py && flask --app app run
+```
+  - ##### (Windows, make sure you have python and git installed):
+```powershell
+  git clone https://github.com/absterjr/AI-Tutor.git && pip install -r requirements.txt && python env.py && flask --app app run
+```
 
 ### Usage
 Once the app is running, navigate to http://127.0.0.1:5000 in your web browser to access the chatbot. You can start a conversation by typing your response in the input box at the bottom of the page and pressing Enter. The chatbot will respond with a question related to a particular subtopic and a summary of the ideas related to that subtopic. Once the chatbot determines that you have demonstrated sufficient understanding of the current subtopic, it will move on to the next subtopic. 
