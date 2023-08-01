@@ -9,7 +9,10 @@ app = Flask(__name__)
 topics = ["Intro to ML training", "Steps in Training", "Data Collection", "Preprocessing", "Training", "Evaluation"]
 
 # Define the OpenAI API key and model
-openai.api_key = "YOUR_API_KEY"
+apiKey = ""
+with open("apikey.txt", "r") as file:
+    apiKey = file.read()
+openai.api_key = apiKey
 model_engine = "text-davinci-002"
 
 # Define the natural language processing (NLP) tools
