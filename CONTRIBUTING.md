@@ -2,7 +2,7 @@
 
 Thank you for considering contributing to the AI Tutor project! We welcome any contributions that can help improve the functionality, usability, and educational value of the application. By contributing, you can help make AI Tutor a more effective tool for teaching machine learning topics and other subjects.
 
-## Getting Started
+## Getting Started 
 
 To contribute to AI Tutor, please follow these steps:
 
