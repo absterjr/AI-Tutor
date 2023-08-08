@@ -2,7 +2,7 @@
 
 As contributors and maintainers of the AI Tutor project, we are committed to fostering an inclusive, respectful, and harassment-free environment for everyone involved. We expect all individuals to adhere to this Code of Conduct when participating in any AI Tutor-related activities, including but not limited to:
 
-- Contributing code via pull requests
+- Contributing code via pull requests 
 - Participating in discussions or issue tracking
 - Engaging in any AI Tutor-related communication channels
 
