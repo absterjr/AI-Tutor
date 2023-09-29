@@ -19,11 +19,11 @@ Type Yes to continue on to the next topic.
 #### Or you can use this command or your command line:
   - ##### (Linux, make sure you have python and git installed):
 ```bash
-   git clone https://github.com/absterjr/AI-Tutor.git && pip install -r requirements.txt && python3 env.py && flask --app app run
+   git clone https://github.com/absterjr/AI-Tutor.git && pip install -r requirements.txt && python3 env.py && python app.py
 ```
   - ##### (Windows, make sure you have python and git installed):
 ```powershell
-  git clone https://github.com/absterjr/AI-Tutor.git && pip install -r requirements.txt && python env.py && flask --app app run
+  git clone https://github.com/absterjr/AI-Tutor.git && pip install -r requirements.txt && python env.py && python app.py
 ```
 
 ### Usage
