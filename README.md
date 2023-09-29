@@ -42,5 +42,5 @@ You can see an example below.
 Contributions to AI Tutor are welcome! If you find a bug or have an idea for a new feature, please open an issue or submit a pull request. 
 
 
-#### Note: replace "YOUR_API_KEY" with your actual OpenAI API key. Also, make sure to install the necessary packages
+#### Note: replace "YOUR_API_KEY" with your actual OpenAI API key.
 The number of topics can be increased by simply adding the topic names into the list defined at the beginning.
