@@ -32,8 +32,6 @@ ml_topics = [
     },
     # Add more topics and prompts as needed
 ]
-
-
 # Number of requests allowed per minute
 requests_per_minute = 3
 
