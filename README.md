@@ -12,6 +12,7 @@ AI Tutor is a Python script that harnesses the power of OpenAI's GPT-3 language 
 - Install the required packages: pip install -r requirements.txt
 - Set up the OpenAI API key: https://platform.openai.com/account/api-keys
 - Run the script: python app.py
+
 ![alt text](https://github.com/absterjr/AI-Tutor/blob/main/AI%20Tutor.png?raw=true)
 
 Type Yes to continue on to the next topic.
@@ -27,11 +28,13 @@ Type Yes to continue on to the next topic.
 
 ### Usage
 How It Works
-The script teaches machine learning topics.
-It generates questions and explanations.
-Users can ask questions and interact with the AI tutor.
-The script progresses to the next subtopic when the user demonstrates understanding.
+- The script teaches machine learning topics.
+- It generates questions and explanations.
+- Users can ask questions and interact with the AI tutor.
+- The script progresses to the next subtopic when the user demonstrates understanding.
+
 You can see an example below.
+
 ![alt text](https://github.com/absterjr/AI-Tutor/blob/main/Doubt.png?raw=true)
 
 
